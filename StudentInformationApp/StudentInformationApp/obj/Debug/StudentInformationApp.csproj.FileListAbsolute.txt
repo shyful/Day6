@@ -1,0 +1,12 @@
+F:\Shyful\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+F:\Shyful\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csprojResolveAssemblyReference.cache
+F:\Shyful\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Form1.resources
+F:\Shyful\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+F:\Shyful\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+F:\Shyful\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+F:\Shyful\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+F:\Shyful\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+F:\Shyful\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb
+H:\FTFL\BCC\ASP.NET\My Code\Day6 17-12-14\Day6 17-12-14\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+H:\FTFL\BCC\ASP.NET\My Code\Day6 17-12-14\Day6 17-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+H:\FTFL\BCC\ASP.NET\My Code\Day6 17-12-14\Day6 17-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb

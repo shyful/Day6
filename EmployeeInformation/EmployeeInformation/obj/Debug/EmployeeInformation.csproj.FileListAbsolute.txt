@@ -1,0 +1,9 @@
+F:\Shyful\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+F:\Shyful\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+F:\Shyful\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+F:\Shyful\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+F:\Shyful\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Form1.resources
+F:\Shyful\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+F:\Shyful\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+F:\Shyful\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+F:\Shyful\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb

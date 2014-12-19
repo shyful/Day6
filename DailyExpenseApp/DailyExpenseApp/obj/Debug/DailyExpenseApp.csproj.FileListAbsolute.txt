@@ -1,0 +1,10 @@
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.DailyExpenseUI.resources
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+F:\Shyful\DailyExpenseApp\DailyExpenseApp\bin\Debug\CSVLib.dll

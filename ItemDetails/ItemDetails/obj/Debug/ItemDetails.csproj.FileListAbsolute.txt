@@ -1,0 +1,5 @@
+F:\Shyful\ItemDetails\ItemDetails\bin\Debug\ItemDetails.exe.config
+F:\Shyful\ItemDetails\ItemDetails\bin\Debug\ItemDetails.exe
+F:\Shyful\ItemDetails\ItemDetails\bin\Debug\ItemDetails.pdb
+F:\Shyful\ItemDetails\ItemDetails\obj\Debug\ItemDetails.exe
+F:\Shyful\ItemDetails\ItemDetails\obj\Debug\ItemDetails.pdb
